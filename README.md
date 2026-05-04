@@ -1,6 +1,6 @@
 # Sergi Reina
 
-I build AI-powered tools for finance, operations, and workflow automation — with a focus on multi-agent pipelines that produce structured, auditable outputs.
+AI Product Manager.
 
 ---
 
