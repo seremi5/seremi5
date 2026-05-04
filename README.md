@@ -1,9 +1,3 @@
-# Sergi Reina
-
-AI Product Manager.
-
----
-
 ## What I'm Building
 
 ### Public
