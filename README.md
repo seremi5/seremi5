@@ -5,7 +5,8 @@
 | Project | Description | Stack |
 |---|---|---|
 | [investing-ai](https://github.com/seremi5/investing-ai) | Long-term stock risk analyzer. Quantitative scoring + 4-agent AI debate (Bull / Bear / Skeptic / Judge) + probabilistic 12-month forecast | Python · Gemini AI · Alpha Vantage · yfinance |
-| [ai-forge](https://github.com/seremi5/ai-forge) | Standards and patterns I use to build AI pipelines. Templates, agent contracts, and conventions | Python · Gemini AI |
+| [sr-pipeline](https://github.com/seremi5/sr-pipeline) | Standards and patterns I use to build AI pipelines. Templates, agent contracts, and conventions | Python · Gemini AI |
+| [browser-agent](https://github.com/seremi5/browser-agent) | MCP server that gives AI agents full control over a real Chrome browser via Playwright. 20 tools, works with Claude Code and any MCP client | TypeScript · Playwright · MCP |
 
 ### In Progress *(private)*
 
@@ -32,7 +33,7 @@ CLI entry point
 
 Each agent has a single responsibility. Data flows forward only. The AI writes analysis — it never controls flow.
 
-Full patterns and conventions → [ai-forge](https://github.com/seremi5/ai-forge)
+Full patterns and conventions → [sr-pipeline](https://github.com/seremi5/sr-pipeline)
 
 ---
 
